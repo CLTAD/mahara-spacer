@@ -8,7 +8,7 @@ This is probably the simplest Mahara plugin possible, but I have found that it i
 
 ## Requirements
 ---
-Should work with most versions of Mahara - test on 1.4, 1.5, 1.6
+Should work with most versions of Mahara - tested on 1.4, 1.5, 1.6
 
 
 
